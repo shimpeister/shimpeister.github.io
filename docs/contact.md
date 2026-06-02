@@ -11,9 +11,9 @@ Sapporo 060-0810, Japan
 
 ## Links
 
-- [Google Scholar](https://scholar.google.com/)
-- [ResearchGate](https://www.researchgate.net/)
-- [Researchmap](https://researchmap.jp/)
-- [KAKENHI](https://kaken.nii.ac.jp/)
+- [Google Scholar]( https://scholar.google.com/citations?user=DuW1wLUAAAAJ&hl=ja)
+- [ResearchGate](https://www.researchgate.net/profile/Shimpei-Kobayashi)
+- [Researchmap](https://researchmap.jp/shimpeister)
+- [KAKENHI](https://nrid.nii.ac.jp/ja/nrid/1000040408654/)
 
 <!-- Replace the generic links above by exact profile URLs if desired. -->
