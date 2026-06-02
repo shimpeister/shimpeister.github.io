@@ -21,13 +21,13 @@ This page highlights representative works and recent directions. For the full li
 
 ## Loop groups, harmonic maps, and surface theory
 
-6. **[Constant mean curvature surfaces in hyperbolic 3-space via loop groups](https://www.degruyter.com/view/j/crelle.2014.2014.issue-686/crelle-2012-0024/crelle-2012-0024.xml?format=INT)**  
+6. **[Constant mean curvature surfaces in hyperbolic 3-space via loop groups](https://www.degruyterbrill.com/de/document/doi/10.1515/crelle-2012-0024/html?srsltid=AfmBOorD8Bf4_YqQ-WfWIdWF9LIYhELmWwwVe9H6hR4fITE4HhVGcnMq)**  
    with J. F. Dorfmeister and J. Inoguchi, *Journal für die Reine und Angewandte Mathematik* 686 (2014), 1--36.
 
 7. **[A loop group method for affine harmonic maps into Lie groups](https://www.sciencedirect.com/science/article/pii/S0001870816305059)**  
    with J. F. Dorfmeister and J. Inoguchi, *Advances in Mathematics* 298 (2016), 207--253.
 
-8. **[A loop group method for minimal surfaces in the three-dimensional Heisenberg group](https://intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0020/0003/a002/index.html)**  
+8. **[A loop group method for minimal surfaces in the three-dimensional Heisenberg group](https://intlpress.com/JDetail/1806252248688726017)**  
    with J. F. Dorfmeister and J. Inoguchi, *Asian Journal of Mathematics* 20 (2016), no. 3, 409--448.
 
 9. **[Minimal cylinders in the three-dimensional Heisenberg group](https://link.springer.com/article/10.1007/s00208-023-02610-0)**  
