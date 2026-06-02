@@ -1,19 +1,27 @@
 # Publications
 
-This section presents my publications in several complementary ways. The complete list is arranged in **reverse chronological order**, while the selected and thematic lists are intended to make the main research directions easier to see.
+This section presents my publications in several complementary ways. The complete list is arranged in reverse chronological order, while the selected and thematic lists are intended to make the main research directions easier to see.
 
-<div class="cards" markdown>
+## Selected Publications
 
-- **[Selected Publications](selected.md)**  
-  Representative works and recent directions.
+Representative works and recent directions.
 
-- **[Publications by Theme](by-theme.md)**  
-  A thematic organization of the publication list.
+[View selected publications](selected.md)
 
-- **[Complete List](complete-list.md)**  
-  Reverse chronological publication list, with links carried over from the former Google Sites page when available.
+## Publications by Theme
 
-- **[Preprints and Miscellany](preprints.md)**  
-  Preprints, notes, and miscellaneous items.
+A thematic organization of the publication list.
 
-</div>
+[View publications by theme](by-theme.md)
+
+## Complete List
+
+Reverse chronological publication list, with links carried over from the former Google Sites page when available.
+
+[View complete list](complete-list.md)
+
+## Preprints and Miscellany
+
+Preprints, notes, and miscellaneous items.
+
+[View preprints and miscellany](preprints.md)
