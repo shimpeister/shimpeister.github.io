@@ -2,6 +2,7 @@
 
 **Shimpei Kobayashi**  
 Professor, Department of Mathematics, Hokkaido University
+
 Email: kobayashi [at] math.sci.hokudai.ac.jp
 
 Department of Mathematics, Hokkaido University  
