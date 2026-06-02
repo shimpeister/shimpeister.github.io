@@ -16,8 +16,6 @@ My research is centered on the idea that classical geometric structure equations
 
 ## Research areas
 
-<div class="cards" markdown>
-
 - **Integrable systems and surface geometry**  
   Minimal, constant mean curvature, and constant Gaussian curvature surfaces; DPW and loop group methods.
 
@@ -33,7 +31,6 @@ My research is centered on the idea that classical geometric structure equations
 - **Discrete differential geometry**  
   Discrete CMC surfaces, discrete affine spheres, cross-ratio systems, and integrable discretizations.
 
-</div>
 
 ## Main sections
 
@@ -46,4 +43,4 @@ My research is centered on the idea that classical geometric structure equations
 
 ## Book
 
-- *曲面とベクトル解析*.
+- [**曲面とベクトル解析**](https://www.amazon.co.jp/%E6%9B%B2%E9%9D%A2%E3%81%A8%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E8%A7%A3%E6%9E%90-NBS-%E6%97%A5%E8%A9%95%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%B0%8F%E6%9E%97%E7%9C%9F%E5%B9%B3/dp/4535806373)
