@@ -1,9 +1,9 @@
-# Contact
+#Contact
 
 **Shimpei Kobayashi**  
 Professor, Department of Mathematics, Hokkaido University
 
-Email: kobayashi [at] math.sci.hokudai.ac.jp
+Email: shimpei [at] math.sci.hokudai.ac.jp
 
 Department of Mathematics, Hokkaido University  
 Nishi 8-Chome, Kita 10-Jou, Kita-Ku  
