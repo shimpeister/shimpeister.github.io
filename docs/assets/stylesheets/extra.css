@@ -1,0 +1,50 @@
+.hero {
+  padding: 1.4rem 1.6rem;
+  margin: 0 0 1.5rem 0;
+  border-radius: 0.7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+}
+
+.hero .eyebrow {
+  margin: 0 0 0.4rem 0;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+}
+
+.hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+}
+
+.hero-text {
+  font-size: 1.05rem;
+  max-width: 48rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.4rem 0;
+}
+
+.cards > ul {
+  display: contents;
+}
+
+.cards > ul > li {
+  list-style: none;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  background: var(--md-code-bg-color);
+}
+
+.cards > ul > li p {
+  margin-bottom: 0;
+}

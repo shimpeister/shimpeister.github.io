@@ -1,0 +1,63 @@
+site_name: Shimpei Kobayashi
+site_description: Differential Geometry and Integrable Systems
+site_url: https://shimpeister.github.io/kobayashi-site/
+
+repo_name: shimpeister/kobayashi-site
+repo_url: https://github.com/shimpeister/kobayashi-site
+
+nav:
+  - Home: index.md
+  - Research:
+      - Overview: research/index.md
+      - Integrable Systems and Surface Geometry: research/integrable-systems.md
+      - Teichmüller Theory and Harmonic Maps: research/teichmuller-harmonic-maps.md
+      - Minimal Lagrangian and Product Geometries: research/minimal-lagrangian.md
+      - Statistical, Hessian, and Affine Geometry: research/statistical-affine-geometry.md
+      - Discrete Differential Geometry: research/discrete-geometry.md
+  - Publications:
+      - Overview: publications/index.md
+      - Selected Publications: publications/selected.md
+      - Publications by Theme: publications/by-theme.md
+      - Complete List: publications/complete-list.md
+      - Preprints and Miscellany: publications/preprints.md
+  - Students:
+      - For Prospective Students: students/index.md
+      - Seminar Themes: students/seminar-themes.md
+      - Thesis Topics: students/thesis-topics.md
+  - Teaching: teaching/index.md
+  - Talks:
+      - Overview: talks/index.md
+      - Complete List: talks/complete-list.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
