@@ -25,6 +25,9 @@ nav:
       - For Prospective Students: students/index.md
       - Seminar Themes: students/seminar-themes.md
       - Thesis Topics: students/thesis-topics.md
+  - Events:
+      - Overview: events/index.md
+      - Recent Advances in Geometric Structures: events/recent-advances-in-geometric-structures.md
   - Talks:
       - Overview: talks/index.md
       - Complete List: talks/complete-list.md
