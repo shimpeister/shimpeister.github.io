@@ -1,10 +1,10 @@
 site_name: Shimpei Kobayashi
 site_description: Differential Geometry and Integrable Systems
-site_url: https://github.com/shimpeister-a11y/shimpeister-a11y.github.io/
+site_url: https://shimpeister-a11y.github.io/
 
 
 repo_name: shimpeister/kobayashi-site
-repo_url: https://github.com/shimpeister/kobayashi-site
+repo_url: https://shimpeister-a11y.github.io/
 
 nav:
   - Home: index.md
