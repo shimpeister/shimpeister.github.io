@@ -49,7 +49,10 @@ It is known that earthquake deformations of Fuchsian groups are induced by pleat
 A complex projective structure on a Riemann surface has a holonomy representation from its fundamental group in \(\mathrm{PSL}(2,\mathbb{C})\). Given different diffeomorphic marked Riemann surfaces, we discuss projective structures on those surfaces that share the same holonomy.
 
 ### Graham Smith  
-**TBA**
+**On the asymptotic geometry of finite-type $k$-surfaces in $3$-dimensional hyperbolic space**
+
+We define a finite-type $k$-surface to be a complete, immersed surface of finite area and of constant extrinsic curvature equal to $k$. In earlier work, we showed that, for all $k\in]0,1[$, every finite-type $k$ surface has finite many, $N$ say, ends, and that that the space of finite-type $k$-surfaces in $3$-dimensional hyperbolic space is homeomorphic to the space of pointed ramified covers of the Riemann sphere. In this talk we study the asymptotic structure of the ends of such surfaces, showing that each such end is asymptotic to a unique preferred geodesic, which we call the Steiner geodesic. To each finite-type $k$-surface is thus associated $N$ Steiner geodesics, and we show that the vector consisting of all end-points of these geodesics defines a lagrangian immersion from each stratum of the space of finite-type $k$-surfaces into a suitable open subset of the Cartesian product of $2N$ copies of the Riemann sphere.
+
 
 ### Yoshihiko Matsumoto  
 **CR-invariant energy of Legendrian knots in the Heisenberg group**
