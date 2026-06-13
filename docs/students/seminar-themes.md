@@ -11,14 +11,24 @@
 - コンピュータを用いた特殊曲面の可視化
 - 情報幾何と統計多様体の基礎
 
+## Possible Starting Topics for Undergraduate and Master's Seminars
 
-## Course A: Complex Analysis and Geometry
+The following are possible starting points for undergraduate and master's seminars.  
+They are not fixed courses, but examples of topics from which students can enter differential geometry and related areas.
 
-Möbius transformations, conformal maps, hyperbolic geometry, Riemann surfaces, and an introduction to Teichmüller theory.
+Students usually begin with classical and concrete subjects, such as curves and surfaces, the first and second fundamental forms, the Gauss--Codazzi equations, minimal surfaces, constant mean curvature surfaces, moving frames, Lie groups, complex analysis, and geometric differential equations.
 
-## Course B: Shape, Motion, and Optimization
+Possible starting topics include:
 
-Rotations, rigid motions, quaternions, curves and surfaces, least squares, constrained optimization, and geometric applications.
+- Classical differential geometry of curves and surfaces
+- Minimal surfaces and constant mean curvature surfaces
+- The Gauss--Codazzi equations and moving frames
+- Basic theory of Lie groups and homogeneous spaces
+- Complex analysis and surface theory
+- The sine-Gordon equation and surface geometry
+- The Toda lattice and its geometric applications
+- Computer experiments and visualization of special surfaces
+- Information geometry and statistical manifolds
 
 ## Possible background
 
