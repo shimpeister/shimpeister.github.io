@@ -1,4 +1,4 @@
-# Seminar Themes
+# Starting Topics
 ## 卒業研究・修士初年で始めやすいテーマ
 
 - 曲線と曲面の古典微分幾何

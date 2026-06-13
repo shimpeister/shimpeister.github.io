@@ -47,7 +47,7 @@
 - アフィン微分幾何と対称錐
 - 幾何構造と Cartan geometry
 
-より具体的な卒業研究・ゼミの候補は [Seminar Themes](seminar-themes.md) と [Thesis Topics](thesis-topics.md) を見てください。
+より具体的な卒業研究・ゼミの候補は [Starting Topics](seminar-themes.md) と [Thesis Topics](thesis-topics.md) を見てください。
 
 ## English note for international students
 
