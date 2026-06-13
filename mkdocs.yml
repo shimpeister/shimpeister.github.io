@@ -22,7 +22,7 @@ nav:
       - Preprints and Miscellany: publications/preprints.md
   - Students:
       - For Prospective Students: students/index.md
-      - Seminar Themes: students/seminar-themes.md
+      - Starting  Topics: students/seminar-themes.md
       - Thesis Topics: students/thesis-topics.md
   - Events:
       - Overview: events/index.md
@@ -31,6 +31,9 @@ nav:
       - Overview: talks/index.md
       - Complete List: talks/complete-list.md
   - Contact: contact.md
+
+plugins:
+  - search
 
 theme:
   name: material
@@ -63,8 +66,6 @@ extra_css:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-theme:
-  name: material
 
 extra:
   analytics:
