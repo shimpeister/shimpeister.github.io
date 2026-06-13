@@ -11,6 +11,10 @@
 - コンピュータを用いた特殊曲面の可視化
 - 情報幾何と統計多様体の基礎
 
+これらのセミナーの目的は、単に定義や定理を学ぶことだけではありません。数学の文献を丁寧に読み、具体例を自分で計算し、幾何学的な考え方を正確な言葉で説明できるようになることを重視します。
+
+学生の興味や準備状況に応じて、調和写像、ループ群、可積分系、タイヒミュラー理論、離散微分幾何、アフィン幾何・情報幾何などの発展的な話題へ進むこともできます。
+
 ## Possible Starting Topics for Undergraduate and Master's Seminars
 
 The following are possible starting points for undergraduate and master's seminars.  
@@ -29,6 +33,10 @@ Possible starting topics include:
 - The Toda lattice and its geometric applications
 - Computer experiments and visualization of special surfaces
 - Information geometry and statistical manifolds
+
+The aim of these seminars is not only to learn definitions and theorems, but also to develop the ability to read mathematical texts carefully, work out concrete examples, perform computations, and explain geometric ideas in a precise way.
+
+Advanced topics such as harmonic maps, loop groups, integrable systems, Teichmüller theory, discrete differential geometry, and affine or statistical geometry may be introduced gradually, depending on the student's interests and background.
 
 ## Possible background
 
