@@ -33,7 +33,7 @@ Fourth floor
 |---|---|---|
 | 10:00--11:00 | Kentaro Ito | Complex earthquakes and pieces of hyperbolic planes in \(\mathrm{SL}(2,\mathbb{C})\) |
 | 11:30--12:30 | Shinpei Baba | Bending Teichmüller spaces and character varieties |
-| 14:30--15:30 | Graham Smith | TBA |
+| 14:30--15:30 | Graham Smith | On the asymptotic geometry of finite-type $k$-surfaces in $3$-dimensional hyperbolic space |
 | 16:00--17:00 | Yoshihiko Matsumoto | CR-invariant energy of Legendrian knots in the Heisenberg group |
 
 ## Abstracts
