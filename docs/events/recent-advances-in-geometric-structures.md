@@ -44,9 +44,12 @@ Fourth floor
 It is known that earthquake deformations of Fuchsian groups are induced by pleated hyperbolic planes in \(\mathrm{SL}(2,\mathbb{R})\), the anti-de Sitter space. We are interested in an extension of this theory to deformations of quasi-Fuchsian groups induced by surfaces in \(\mathrm{SL}(2,\mathbb{C})\). At the very beginning of this study, in this talk, we consider pieces of hyperbolic planes in \(\mathrm{SL}(2,\mathbb{C})\) inducing complex earthquake deformations of Fuchsian groups.
 
 ### Shinpei Baba  
-**Complex projective structures on Riemann surfaces and the intersections of their holonomy varieties**
+**Bending Teichmüller spaces and character varieties"**
 
-A complex projective structure on a Riemann surface has a holonomy representation from its fundamental group in \(\mathrm{PSL}(2,\mathbb{C})\). Given different diffeomorphic marked Riemann surfaces, we discuss projective structures on those surfaces that share the same holonomy.
+Let S be a closed oriented surface of genus at least two.  The Teichmüller space of S can be identified with the space of discrete faithful representations from the fundamental group of S into PSL(2, R).  Given a simple closed curve on S with positive weight (or more generally, a measured lamination), we can “bend” the representation along the curve by an angle equal to the weight, and obtain a representation of the surface group into PSL(2, C).  This bending deformation induces a mapping from the Teichmüller space into the space of representations of the surface group into PSL(2, C). We discuss some interesting properties of this mapping.  
+
+If time permits, we also discuss a complexification of this mapping, constructed geometrically.
+
 
 ### Graham Smith  
 **On the asymptotic geometry of finite-type $k$-surfaces in $3$-dimensional hyperbolic space**
