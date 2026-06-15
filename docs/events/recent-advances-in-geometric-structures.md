@@ -32,7 +32,7 @@ Fourth floor
 | Time | Speaker | Title |
 |---|---|---|
 | 10:00--11:00 | Kentaro Ito | Complex earthquakes and pieces of hyperbolic planes in \(\mathrm{SL}(2,\mathbb{C})\) |
-| 11:30--12:30 | Shinpei Baba | Complex projective structures on Riemann surfaces and the intersections of their holonomy varieties |
+| 11:30--12:30 | Shinpei Baba | Bending Teichmüller spaces and character varieties |
 | 14:30--15:30 | Graham Smith | TBA |
 | 16:00--17:00 | Yoshihiko Matsumoto | CR-invariant energy of Legendrian knots in the Heisenberg group |
 
@@ -44,7 +44,7 @@ Fourth floor
 It is known that earthquake deformations of Fuchsian groups are induced by pleated hyperbolic planes in \(\mathrm{SL}(2,\mathbb{R})\), the anti-de Sitter space. We are interested in an extension of this theory to deformations of quasi-Fuchsian groups induced by surfaces in \(\mathrm{SL}(2,\mathbb{C})\). At the very beginning of this study, in this talk, we consider pieces of hyperbolic planes in \(\mathrm{SL}(2,\mathbb{C})\) inducing complex earthquake deformations of Fuchsian groups.
 
 ### Shinpei Baba  
-**Bending Teichmüller spaces and character varieties"**
+**Bending Teichmüller spaces and character varieties**
 
 Let S be a closed oriented surface of genus at least two.  The Teichmüller space of S can be identified with the space of discrete faithful representations from the fundamental group of S into PSL(2, R).  Given a simple closed curve on S with positive weight (or more generally, a measured lamination), we can “bend” the representation along the curve by an angle equal to the weight, and obtain a representation of the surface group into PSL(2, C).  This bending deformation induces a mapping from the Teichmüller space into the space of representations of the surface group into PSL(2, C). We discuss some interesting properties of this mapping.  
 
