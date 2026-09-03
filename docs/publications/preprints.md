@@ -6,6 +6,7 @@
 1. A classification of constant Gaussian curvature surfaces in the three-dimensional hyperbolic space, with J.-I. Inoguchi, submitted, 2024.
 2. Two classes of Willmore surfaces in S^2 × S^2, with X. Chai, C. Wang and Z. Xie, submitted, 2026.
 3. Minimal Lagrangian surfaces in the two-dimensional complex hyperbolic quadric via the loop group method, with S. Zeng, submitted, 2026.
+4. Horospheres in the Complex Hyperbolic plane and the Contact Gauss Map in the Three-Dimensional Heisenberg Group, with J.-I. Inoguchi, submitted, 2026.
 
 ## Miscellaneous
 
