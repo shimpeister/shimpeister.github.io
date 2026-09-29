@@ -16,7 +16,7 @@ My research is centered on the idea that classical geometric structure equations
 
 ## Legendrian mKdV flow on an embedded torus
 
-<iframe src="demos/mkdv-torus.html" width="100%" height="560"
+<iframe src="demos/mkdv-torus.html?v=2" width="100%" height="560"
         style="border: none; border-radius: 6px;"
         title="Legendrian mKdV relative equilibrium on an embedded torus"
         loading="lazy"></iframe>
