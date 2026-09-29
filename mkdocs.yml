@@ -30,6 +30,7 @@ nav:
   - Talks:
       - Overview: talks/index.md
       - Complete List: talks/complete-list.md
+  - 3D Viewer: 3d-viewer.md
   - Contact: contact.md
 
 plugins:
@@ -63,9 +64,14 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/viewer.css
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.min.js
+  - https://cdn.jsdelivr.net/npm/three@0.180.0/examples/js/controls/OrbitControls.js
+  - https://cdn.jsdelivr.net/npm/three@0.180.0/examples/js/loaders/OBJLoader.js
+  - assets/javascripts/obj-viewer.js
 
 extra:
   analytics:
