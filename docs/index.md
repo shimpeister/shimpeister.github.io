@@ -14,6 +14,17 @@
 
 My research is centered on the idea that classical geometric structure equations often acquire a spectral parameter in special geometric problems and thereby become part of an integrable system. This viewpoint connects surface geometry, harmonic maps, loop groups, discrete differential geometry, Teichmüller theory, and affine/statistical geometry.
 
+## Legendrian mKdV flow on an embedded torus
+
+<iframe src="demos/mkdv-torus.html" width="100%" height="560"
+        style="border: none; border-radius: 6px;"
+        title="Legendrian mKdV relative equilibrium on an embedded torus"
+        loading="lazy"></iframe>
+
+A closed Legendrian curve in the Heisenberg group moved by the Hamiltonian flow of
+horizontal length. In the periodic Reeb gauge the flow is a rotation about the Reeb axis
+and the curve sweeps an embedded torus. [Open full screen](demos/mkdv-torus.html)
+
 ## Research areas
 
 - **Integrable systems and surface geometry**  
@@ -30,17 +41,6 @@ My research is centered on the idea that classical geometric structure equations
 
 - **Discrete differential geometry**  
   Discrete CMC surfaces, discrete affine spheres, cross-ratio systems, and integrable discretizations.
-
-## Legendrian mKdV flow on an embedded torus
-
-<iframe src="demos/mkdv-torus.html" width="100%" height="560"
-        style="border: none; border-radius: 6px;"
-        title="Legendrian mKdV relative equilibrium on an embedded torus"
-        loading="lazy"></iframe>
-
-A closed Legendrian curve in the Heisenberg group moved by the Hamiltonian flow of
-horizontal length. In the periodic Reeb gauge the flow is a rotation about the Reeb axis
-and the curve sweeps an embedded torus. [Open full screen](demos/mkdv-torus.html)
 
 ## Main sections
 
