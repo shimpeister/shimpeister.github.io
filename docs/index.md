@@ -25,6 +25,19 @@ A closed Legendrian curve in the Heisenberg group moved by the Hamiltonian flow 
 horizontal length. In the periodic Reeb gauge the flow is a rotation about the Reeb axis
 and the curve sweeps an embedded torus. [Open full screen](demos/mkdv-torus.html)
 
+## Collision of loop solitons and their Legendrian lifts
+
+<iframe src="demos/loop-soliton-Heisenberg.html?v=1" width="100%" height="600"
+        style="border: none; border-radius: 6px;"
+        title="Collision of two loop solitons lifted to the Heisenberg group"
+        loading="lazy"></iframe>
+
+A two-soliton solution of the focusing mKdV equation moves a planar curve with two loops;
+the faster loop overtakes the slower one and both re-emerge with their shapes intact.
+The Legendrian lift to the Heisenberg group returns to its initial height after each loop,
+since a loop soliton has zero signed area. [Open full screen](demos/loop-soliton-Heisenberg.html?v=1)
+
+
 ## Research areas
 
 - **Integrable systems and surface geometry**  
