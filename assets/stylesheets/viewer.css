@@ -1,0 +1,81 @@
+.obj-viewer {
+  margin: 1.5rem 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: #101820;
+  color: #edf3f5;
+}
+
+.obj-viewer__toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  padding: 0.8rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.obj-viewer__file-button,
+.obj-viewer__toolbar button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.2rem;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 0.25rem;
+  background: #e3b341;
+  color: #101820;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+.obj-viewer__toolbar button {
+  background: transparent;
+  color: #edf3f5;
+}
+
+.obj-viewer__toolbar input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+#obj-status {
+  color: #b8c9ce;
+  font-size: 0.9rem;
+}
+
+.obj-viewer__canvas {
+  position: relative;
+  min-height: 32rem;
+  outline: 2px dashed transparent;
+  outline-offset: -0.6rem;
+  background: radial-gradient(circle at 50% 42%, #263944 0, #101820 68%);
+}
+
+.obj-viewer__canvas.is-dragging {
+  outline-color: #e3b341;
+}
+
+.obj-viewer__canvas canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.obj-viewer__empty {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  transform: translate(-50%, -50%);
+  color: #b8c9ce;
+  pointer-events: none;
+}
+
+@media (max-width: 600px) {
+  .obj-viewer__canvas {
+    min-height: 24rem;
+  }
+}
