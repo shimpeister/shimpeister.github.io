@@ -1,14 +1,16 @@
 site_name: Shimpei Kobayashi
-site_description: Differential Geometry and Integrable Systems
+site_description: 小林真平 — 微分幾何学・可積分系の研究と、企業の研究開発に向けた数理アドバイザリー
 site_url: https://shimpeister.github.io/
 
-repo_name: shimpeister/kobayashi-site
-repo_url: https://shimpeister.github.io/
+repo_name: shimpeister/shimpeister.github.io
+repo_url: https://github.com/shimpeister/shimpeister.github.io
 
 nav:
   - Home: index.md
+  - 企業の方へ: collaboration.md
   - Research:
       - Overview: research/index.md
+      - Academic Profile & Demos: profile.md
       - Integrable Systems and Surface Geometry: research/integrable-systems.md
       - Teichmüller Theory and Harmonic Maps: research/teichmuller-harmonic-maps.md
       - Minimal Lagrangian and Product Geometries: research/minimal-lagrangian.md
@@ -48,8 +50,8 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: teal
 
 markdown_extensions:
   - admonition
@@ -61,6 +63,7 @@ markdown_extensions:
       generic: true
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 
 extra_css:
   - assets/stylesheets/extra.css

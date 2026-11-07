@@ -48,3 +48,50 @@
 .cards > ul > li p {
   margin-bottom: 0;
 }
+
+/* Corporate advisory entrance; academic page typography remains unchanged. */
+:root { --advisory-ink: #142f3b; --advisory-teal: #086c70; --md-primary-fg-color: #173c46; --md-accent-fg-color: #086c70; }
+.business-home { color: var(--advisory-ink); }
+.md-typeset .advisory-hero { display: grid; grid-template-columns: 1.18fr 1fr; gap: 1rem; padding: 2.8rem 0 2rem; align-items: center; }
+.md-typeset .advisory-kicker { color: var(--advisory-teal); font-size: .58rem; font-weight: 700; letter-spacing: .13em; margin: 0 0 1.1rem; }
+.md-typeset .advisory-hero h1 { color: var(--advisory-ink); font-family: 'Noto Serif JP', 'Yu Mincho', 'Hiragino Mincho ProN', serif; font-size: clamp(1.55rem, 2.6vw, 2.3rem); font-weight: 650; line-height: 1.65; letter-spacing: .025em; margin: 0 0 1rem; }
+.md-typeset .advisory-lead { font-size: .95rem; font-weight: 600; line-height: 1.9; margin: 0 0 .8rem; }
+.md-typeset .advisory-summary { font-size: .77rem; line-height: 2; color: #4e6069; max-width: 26rem; }
+.md-typeset .advisory-person { font-size: .66rem; line-height: 2; margin: 1.35rem 0 1.1rem; color: #52636b; }
+.md-typeset .advisory-person strong { font-size: .95rem; color: var(--advisory-ink); letter-spacing: .12em; }
+.md-typeset .advisory-person span { margin-left: .65rem; font-size: .62rem; }
+.advisory-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .8rem 1.2rem; }
+.md-typeset a.advisory-button { display: inline-flex; gap: 1.3rem; align-items: center; justify-content: space-between; background: var(--advisory-teal); color: #fff; padding: .8rem 1rem; border: 1px solid var(--advisory-teal); border-radius: .1rem; font-size: .68rem; font-weight: 700; text-decoration: none; }
+.md-typeset a.advisory-button:hover { background: #094c53; border-color: #094c53; color: #fff; }
+.md-typeset a.advisory-text-link { color: var(--advisory-ink); font-size: .63rem; border-bottom: 1px solid #b9c9cc; padding: .3rem 0; }
+.md-typeset .advisory-figure { width: 100%; margin: 0; padding: 1rem .4rem; background: radial-gradient(ellipse at center, #e6f1ed 0, #f5f7f2 60%, #fff 75%); }
+.md-typeset .advisory-figure img { display: block; width: 100%; height: auto; }
+.md-typeset .advisory-figure figcaption { color: var(--advisory-teal); text-align: center; font-size: .51rem; line-height: 2; letter-spacing: .12em; font-style: normal; margin-top: -.6rem; }
+.md-typeset .advisory-figure figcaption span { color: #687a80; font-size: .61rem; letter-spacing: .06em; }
+.advisory-topics { display: flex; flex-wrap: wrap; gap: .7rem 1.8rem; border-top: 1px solid #cfdddd; border-bottom: 1px solid #cfdddd; padding: .85rem 0; font-size: .66rem; color: #52636b; margin-bottom: 2.8rem; }
+.advisory-topics span::before { content: ''; display: inline-block; width: .2rem; height: .2rem; margin: 0 .5rem .12rem 0; background: #0c777b; }
+.md-typeset .advisory-rows { margin: 1.5rem 0 1rem; }
+.advisory-rows section { display: grid; grid-template-columns: 2.4rem 1fr; gap: .6rem; padding: 1.25rem 0; border-top: 1px solid #dbe4e5; }
+.advisory-rows section:last-child { border-bottom: 1px solid #dbe4e5; }
+.md-typeset .advisory-number { font-family: Georgia, serif; font-size: 1.1rem; line-height: 1.6; color: var(--advisory-teal); }
+.md-typeset .advisory-rows h3 { font-size: .93rem; margin: 0 0 .6rem; color: var(--advisory-ink); font-weight: 650; }
+.md-typeset .advisory-rows p { margin: .4rem 0; }
+.md-typeset .advisory-row-note { color: #5a6c73; font-size: .68rem; }
+.md-typeset .advisory-contact { padding: 2rem; margin: 2.5rem 0; border-left: .18rem solid var(--advisory-teal); background: #f0f6f4; }
+.md-typeset .advisory-contact h2 { margin: .2rem 0 1rem; font-weight: 650; color: var(--advisory-ink); font-size: 1.2rem; }
+.md-typeset .advisory-contact .advisory-kicker { margin-bottom: .7rem; }
+.md-typeset .advisory-contact .advisory-email { color: #52636b; font-size: .65rem; margin-bottom: 0; overflow-wrap: anywhere; }
+.md-typeset a.advisory-button:focus-visible, .md-typeset a.advisory-text-link:focus-visible { outline: 3px solid #c77a13; outline-offset: 4px; }
+@media (min-width: 76.25em) {
+  .md-main__inner:has(.business-home) > .md-sidebar--primary { display: none; }
+  .md-main__inner:has(.business-home) > .md-content { margin-left: 0; }
+}
+@media (max-width: 760px) {
+  .md-typeset .advisory-hero { grid-template-columns: 1fr; padding: 1.2rem 0; gap: .2rem; }
+  .md-typeset .advisory-hero h1 { font-size: clamp(1.4rem, 6.1vw, 2rem); }
+  .md-typeset .advisory-figure { max-width: 22rem; margin: 0 auto; padding: 0; }
+  .md-typeset .advisory-figure img { max-height: 14rem; object-fit: contain; }
+  .advisory-topics { gap: .7rem 1rem; margin-bottom: 1.8rem; }
+  .md-typeset .advisory-contact { padding: 1.25rem; }
+  .advisory-rows section { grid-template-columns: 1.8rem 1fr; }
+}

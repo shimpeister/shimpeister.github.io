@@ -1,9 +1,22 @@
-#Contact
+# Contact / お問い合わせ
 
-**Shimpei Kobayashi**  
+## 企業連携・技術顧問のご相談
+
+研究開発に関わる数理的な課題、技術顧問・研究アドバイザー、共同研究、勉強会については、メールでご連絡ください。
+
+ご所属、課題の概要、ご希望の関わり方をお知らせいただけると、専門分野との接点を確認しやすくなります。
+
+[メールで相談する](mailto:shimpei@math.sci.hokudai.ac.jp?subject=企業連携・技術顧問のご相談){ .md-button .md-button--primary }
+
+[相談テーマ・進め方](collaboration.md)
+
+## Affiliation
+
+**小林 真平 / Shimpei Kobayashi**<br>
+北海道大学 教授<br>
 Professor, Department of Mathematics, Hokkaido University
 
-Email: shimpei [at] math.sci.hokudai.ac.jp
+Email: [shimpei@math.sci.hokudai.ac.jp](mailto:shimpei@math.sci.hokudai.ac.jp)
 
 Department of Mathematics, Hokkaido University  
 Nishi 8-Chome, Kita 10-Jou, Kita-Ku  
